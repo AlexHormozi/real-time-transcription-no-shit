@@ -1,0 +1,4 @@
+Flask
+deepgram-sdk
+aiohttp
+requests

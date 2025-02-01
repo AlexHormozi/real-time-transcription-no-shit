@@ -2,3 +2,6 @@ Flask
 deepgram-sdk
 aiohttp
 requests
+Flask==2.2.3
+deepgram-sdk==3.0.0
+aiohttp==3.8.1
